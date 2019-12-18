@@ -14,7 +14,7 @@
       return new Date().getTime();
     };
 
-  // requestAnimationFrame polyfill by Erik Möller, fixes from Paul Irish and Tino Zijdel
+  // requestAnimationFrame polyfill by Erik MÃ¶ller, fixes from Paul Irish and Tino Zijdel
   (function() {
     var lastTime = 0;
     var vendors = ["ms", "moz", "webkit", "o"];
@@ -396,9 +396,9 @@
     var settings = $.extend(
       {
         image:
-          "https://uploads-ssl.webflow.com/5df10b2348d13f8d50048b5e/5df280ccf3b0887cb58b58d9_ASLFLIP.png",
+          "https://uploads-ssl.webflow.com/5df10b2348d13f8d50048b5e/5dfab24b6b4338b2a54d1cd7_FlipboardRevised.png",
         imageSize: "",
-        charsMap: "ABCDEFGHIJKLMNOPQRSTUVWXYZ  0123456789  .,!?-<>  ",
+        charsMap: "ABCDEFGHIJKLMNOPQRSTUVWXYZ 4",
         charWidth: 72,
         charHeight: 100,
         charSubstitute: " ",
